@@ -1,14 +1,17 @@
 <template lang="pug">
   #app
-    v-doc-viewer
+    b-form-group
+      input
+    b-form-group
+      input
 </template>
 
 <script>
-import { b-form-group } from './index'
+import { BFormGroup } from './index'
 export default {
   name: 'app',
   components: {
-    b-form-group
+    BFormGroup
   }
 }
 </script>

@@ -1,11 +1,10 @@
 {
   "name": "b-form-group",
   "version": "0.1.0",
-  "description": "FormGruop",
+  "description": "FormGroup",
   "license": "MIT",
   "author": "Controlla <contacto@controlla.com.mx>",
   "contributors": [
-    "Ivan Sotelo <isotelo@controlla.com.mx>",
     "Ivan Sotelo <isotelo@controlla.com.mx>"
   ],
   "homepage": "https://IvanSotelo.github.io/b-form-group/",

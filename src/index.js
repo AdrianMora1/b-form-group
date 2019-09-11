@@ -1,9 +1,9 @@
-import b-form-group from './components/b-form-group'
+import BFormGroup from './components/BFormGroup'
 
 export default {
   install (Vue) {
-    Vue.component('b-form-group', b-form-group)
+    Vue.component('BFormGroup', BFormGroup)
   }
 }
 
-export { b-form-group }
+export { BFormGroup }
